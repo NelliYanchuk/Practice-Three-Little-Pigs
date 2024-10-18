@@ -34,3 +34,5 @@ This project was developed by:
 
 Illustrations:
 - Giuseppe Di Lernia
+
+![Three Little Pigs](https://i.ibb.co/xJm2xWR/Three-Little-Pigs-screenshot.png)
